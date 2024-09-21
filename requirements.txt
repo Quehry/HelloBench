@@ -1,0 +1,8 @@
+nltk
+numpy
+openai
+peft
+scipy
+torch
+transformers
+gradio

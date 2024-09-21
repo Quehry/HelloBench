@@ -1,0 +1,23 @@
+{
+    "continuation": [
+        "Does the continuation maintain narrative coherence with the preceding text, ensuring seamless consistency in plot, character development, tone, and pacing, while also preserving the established themes and any subtle nuances introduced in the preceding story?",
+        "Is the continuation not only interesting but also engaging and compelling, adding depth to the storyline and characters while maintaining the reader's attention and curiosity throughout?",
+        "Is the continuation sufficiently long and comprehensive, seamlessly integrating with the preceding text to form a coherent and complete story with well-developed plot arcs, character development, and a satisfying resolution that ties up all narrative threads?",
+        "Is the continuation of the story exceptionally novel and original, introducing unique ideas and perspectives that have not been previously explored, while avoiding clichés, predictable plot developments, and drawing from fresh, creative concepts that enhance the overall narrative?",
+        "Do you think this continuation is flawless? You should determine the checklist score based on whether there is room for improvement in the continuation."
+    ],
+    "imitative_writing": [
+        "Does the generated text capture the distinct writing voice and intricate stylistic nuances of the preceding text, while seamlessly integrating these elements into a new story theme, maintaining consistency in tone, complexity, and emotional resonance throughout?",
+        "Is the content of the generated text not only engaging and compelling but also reflective of the same level of intrigue and interest found in the preceding text?",
+        "Is the content of the generated text not only sufficiently lengthy and complete but also meticulously detailed and thoroughly developed, ensuring it matches the depth, comprehensiveness, and narrative complexity of the preceding text?",
+        "Is the content of the generated text not only novel and original but also creatively distinct while maintaining the stylistic and thematic essence of the preceding text?",
+        "Do you think this imitative writing is flawless? You should determine the checklist score based on whether there is room for improvement in the imitative writing."
+    ],
+    "style_transfer": [
+        "Does the generated text not only successfully transform the style and tone to the desired target style but also meticulously capture and replicate the intricate nuances, subtle characteristics, and underlying essence of that style, ensuring a seamless and convincing transition from the preceding text?",
+        "Is the style-transformed text not only engaging and compelling but also reflective of the same level of intrigue and interest as the preceding text, while fully embracing the nuances of the new style?",
+        "Is the style-transformed text not only sufficiently lengthy and complete but also thoroughly detailed and well-developed, ensuring it matches the depth and comprehensiveness of the preceding text?",
+        "Is the style-transformed text not only novel and original but also creatively distinct while faithfully adhering to the characteristics of the new style?",
+        "Do you think this style transfer is flawless? You should determine the checklist score based on whether there is room for improvement in the style transfer."
+    ]
+}
