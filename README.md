@@ -57,7 +57,7 @@ pip install -r requirements.txt
 - **Test Data**: The core test data can be found in the `HelloBench` directory.  
 - **Evaluation Checklists**: For predefined evaluation criteria, refer to the `Checklists` directory.  
 - **Human Evaluation**: To facilitate human evaluation, the required code is located in the `Annotation_Interface` directory.  
-- **LLM Response Generation**: Use `run_=.py` to call an LLM to generate responses for the tasks.  
+- **LLM Response Generation**: Use `run.py` to call an LLM to generate responses for the tasks.  
 - **LLM Response Judging**: To invoke LLMs for evaluating responses, run `llm_judge.py`.  
 - **Regression**: For Linear Regression, execute `regression.py`.
 
