@@ -1,8 +1,8 @@
-# HelloBench: Benchmarking Long-Form Text Generation Capabilities of Large Language Models
+# HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models
 
-HelloBench is an open-source benchmark designed to rigorously evaluate the long-text generation capabilities of large language models (LLMs). This repository includes the complete test dataset, evaluation code from the associated paper:
+HelloBench is an open-source benchmark designed to evaluate the long text generation capabilities of large language models (LLMs). This repository includes the complete test dataset, evaluation code from the associated paper:
 
-**[HelloBench: Benchmarking Long-Form Text Generation Capabilities of Large Language Models]**
+**[HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models]**
 
 The test datasets are curated from platforms like Quora and Reddit, providing diverse, real-world challenges to evaluate LLM performance. For detailed usage instructions and insights, please refer to the sections below.
 
