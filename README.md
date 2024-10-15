@@ -1,10 +1,15 @@
 # HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models
 
-HelloBench is an open-source benchmark designed to evaluate the long text generation capabilities of large language models (LLMs). This repository includes the complete test dataset, evaluation code from the associated paper:
+HelloBench is an open-source benchmark designed to evaluate the long text generation capabilities of large language models (LLMs). This repository includes the complete test data and evaluation code from the associated paper:
 
-**[HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models]**
+**[HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models](https://arxiv.org/abs/2409.16191)**
 
-The test datasets are curated from platforms like Quora and Reddit, providing diverse, real-world challenges to evaluate LLM performance. For detailed usage instructions and insights, please refer to the sections below.
+The test data are curated from platforms like Quora and Reddit, providing diverse, real-world challenges to evaluate LLM performance.
+
+## Merge to Opencompass
+
+HelloBench is now merged to [Opencompass](https://github.com/open-compass/opencompass), you can launch the test script automatically in Opencompass, more details can be found in [url](https://github.com/open-compass/opencompass/tree/main/opencompass/configs/datasets/subjective/hellobench)
+
 
 ## Repository Contents
 
@@ -44,7 +49,7 @@ The test datasets are curated from platforms like Quora and Reddit, providing di
 
 ## Setup Instructions
 
-**Language Requirements**: Python 3.6 or later
+**Language Requirements**: Python 3.10 or later
 
 To set up the environment, run the following command in your terminal:
 
