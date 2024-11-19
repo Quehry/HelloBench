@@ -41,7 +41,8 @@ Always provide the reason for your evaluation results. You should be strict but 
 Evaluate all the checklists and return the evaluation results of the checklists. Output a Python List consisting of the Python Dictionary formatted as follows:
 [{{\"checklist_id\": \"the id of the checklist\", \"reason\": \"The reason for your evaluation results\", \"evaluation_score\": \"Your evaluation score for this checklist\"}},{{\"checklist_id\": \"the id of the checklist\", \"reason\": \"The reason for your evaluation results\", \"evaluation_score\": \"Your evaluation score for this checklist\"}}]
 
-There are total {num_checklist} checklists that you need to evaluate. The length of the output list is equal to the number of checklists and you should give an evaluation score for each checklist. You should be very very very strict to the evaluation to further compare the responses from different models. Your response must be a valid Python List and should contain nothing else, as it will be directly executed in Python."""
+There are total {num_checklist} checklists that you need to evaluate. The length of the output list is equal to the number of checklists and you should give an evaluation score for each checklist. You should be strict to the evaluation to further compare the responses from different models. Your response must be a valid Python List and should contain nothing else, as it will be directly executed in Python."""
+
 LLM_EVAL_SYS_PROMPT = """You are a helpful evaluator. Your task is to evaluate the quality of the responses given by the Large Language Models (LLMs) based on user instructions."""
 LLM_EVAL_USER_PROMPT = """Your core task is to evaluate the quality of the response given by LLMs based on the user's instruction. The evaluation results are scored from 0 to 10, which are:
 

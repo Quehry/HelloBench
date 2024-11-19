@@ -1,0 +1,37 @@
+{
+    "argumentative_writing": [
+        "Does the generated essay comprehensively address the thesis, present thoroughly developed arguments with substantial evidence, conclude in a convincing manner, and consistently maintain rigorous logical coherence and alignment of viewpoints throughout?",
+        "Is the generated essay so highly persuasive, with compelling arguments, credible evidence, and convincing reasoning throughout, that after reading the entire essay, you are unable to find any points to refute the arguments presented?",
+        "Is the generated essay not only sufficiently long and complete but also thoroughly detailed, ensuring each argument is extensively explained and supported by comprehensive evidence?",
+        "Does the generated essay perfectly meet all the requirements specified in the user instructions?",
+        "Do you think this eassy is flawless? You should determine the checklist score based on whether there is room for improvement in the eassy."
+    ],
+    "keyword_writing": [
+        "Does the generated article perfectly and naturally incorporate all the keywords, with each keyword thoroughly expanded and explained in a way that feels effortless and unforced, demonstrating significant depth and insight in the content, and if you can tell that the article was deliberately crafted around these keywords, then it should be considered unnatural?",
+        "Is the generated article not only sufficiently long and complete, forming a coherent and comprehensive article, but also ensuring that each point is extensively explained, with every keyword and their interconnections fully and meticulously elaborated in detail?",
+        "Is the generated article exceptionally novel and highly creative, presenting original ideas and innovative perspectives throughout?",
+        "Does the generated article perfectly meet all the requirements specified in the user instructions?",
+        "Do you think this article is flawless? You should determine the checklist score based on whether there is room for improvement in the article."
+    ],
+    "roleplaying_writing": [
+        "Does the generated content use the first-person perspective to vividly describe the character's experiences, providing detailed and nuanced portrayals of the character's development and transformation throughout the narrative, while consistently aligning with the writing prompt?",
+        "Is the generated story sufficiently long and complete, with each character being well-developed and having their own story arcs that showcase their attributes, leaving readers with a strong impression of each character?",
+        "Is the generated roleplaying content exceptionally engaging and highly novel, presenting unique and captivating ideas throughout the character's story, while fully adhering to the given writing prompt and providing deep insight into the character's experiences and development?",
+        "Does the generated story highlight the character's uniqueness compared to other characters, such as distinctive catchphrases, a particular speaking style, and specific motivations, while ensuring that readers can immerse themselves in the character's perspective?",
+        "Do you think this roleplaying content is flawless? You should determine the checklist score based on whether there is room for improvement in the roleplaying content."
+    ],
+    "screenplay_writing": [
+        "Does the generated screenplay comprehensively include clear and detailed scene settings, well-introduced characters with compelling backgrounds and motivations, natural dialogue that fits character personalities and advances the plot, clearly described actions consistent with character personalities, while accurately reflecting the writing prompt’s theme, setting, and plot direction, and including all key elements mentioned in the prompt?",
+        "Does the generated screenplay have sufficient length and completeness, with each character and scene meticulously designed to purposefully showcase distinct character traits, and ensure each character leaves a lasting and strong impression on the audience?",
+        "Is the generated screenplay consistently engaging, highly original, and novel in its approach, ensuring it captivates the audience throughout?",
+        "Does the generated screenplay perfectly meet all the requirements specified in the user instructions?",
+        "Do you think this screenplay is flawless? You should determine the checklist score based on whether there is room for improvement in the screenplay."
+    ],
+    "story_writing": [
+        "Does the generated story fully align with the writing prompt, thoroughly and creatively respond to its content, and consistently capture and enhance its intended theme, tone, nuances, and deeper meanings throughout, while adding depth and originality to the prompt's concept?",
+        "Is the generated story sufficiently lengthy, providing detailed development of characters, settings, and plot, while ensuring that each character and plot development is complete, necessary, and maintains reader engagement throughout?",
+        "Is the generated story consistently engaging, highly original, and novel, compelling readers to continue reading with a strong desire for more due to its captivating and intriguing narrative?",
+        "Does the generated story highlight the main character's uniqueness compared to other characters, such as distinctive catchphrases, a particular speaking style, and specific motivations, while ensuring that readers can immerse themselves in the character's perspective?",
+        "Do you think this story is flawless? You should determine the checklist score based on whether there is room for improvement in the story."
+    ]
+}
